@@ -23,7 +23,7 @@ Antes de começar:
 ### 3.1. Contornar a verificação do rótulo do CD
 
 1. Abra uma cópia do executável no HxD.
-2. Abra a função de pesquisa de valores hexadecimais.
+2. Abra a função de pesquisa de valores hexadecimais (Ctrl+F).
 3. Procure a seguinte sequência:
 
    `74 40 6A 10 68 24 C9 4B 00`
